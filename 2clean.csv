@@ -1,0 +1,863 @@
+,comments,sentiments,clean_comments
+0,"Thanks to FCC for posting my Web Scraping course. 
+This is a huge achievement for me as a consistent learner from this channel :)
+I hope to see you all around in my future uploads!",,thanks post web scrap course huge achievement consistent learner channel hope see around future
+1,"I thought this skill would be way above my level as i'm still a student mid way through my under-graduate , but you guys made it look like a child's play. I’m actually able to do web scraping after watching your video. Well done FCC team , good job boys.",,thought skill would way level still student mid way undergraduate make look like play actually able web scrap watch video well do team good job
+2,This is definitely one of the best hours I spent on YouTube. Quality content for free. We don't deserve this...,,definitely one best spent quality content free dont deserve
+3,"As someone rather new to coding, I've tried several web scraping tutorials but none of them ""clicked"" for me. Your tutorial however was fantastic. So easy to follow along, it was incredible!!! Thanks you!!",,someone rather new tried several web scrap none tutorial however fantastic easy follow along incredible thanks
+4,"I just have to say, this is the best webscraping course I have seen so far. Very well done !",,say best course see far well do
+5,this is what I call quality content. Very logically presented and instructed. Thank you very much for contributing to my future's success in Python.,,call quality content logically instruct thank much success python
+6,"you can use .""strip"" method to delete unwanted white spaces it's much better than replace :).",,use strip method delete unwanted white much good replace
+7,The amount of hard work and dedication you guys put to create such free content is just Amazing!!!,,amount hard work dedication put create free content amazing
+8,"Excellent tutorial for a total web scraping novice, after watching this I'm already able to pull data from several different websites for my own use case. Knowing very little html coming in, I already feel like I know enough to get to some useful information to analyze offline. Very easy to follow and a great flow by the presenter Jim. Thank you.",,excellent tutorial total web scrap novice watch already able pull data several different use case know little come already feel like know enough get useful information analyze easy follow great flow presenter thank
+9,"As a proxy company, we know that web scraping is a valuable tool for many businesses. This video does a great job of breaking down the concepts and showing how to use the Beautiful Soup library in Python. I highly recommend it.",,proxy company know web scrap valuable tool many video great job break show use beautiful soup library python highly recommend
+10,"Glad to finish the entire discussion. I am a 3rd year Computer Science student and this helped me out A LOT! 
+Thanks again for the wonderful content.",,glad finish entire discussion year computer science student lot thanks wonderful content
+11,"Thank you! This was a great introduction for a total beginner to scraping. By the end of it, I was able to use what you taught me on a different website, and I'm starting a scraping project now with what I just learned.",,thank great introduction total beginner scrap end able use teach different start scrap project learn
+12,"Just wanted to say thank you! One of the best tutorials that I have seen on webscraping, and very easy to understand and follow. Great Job!",,say thank one best see easy understand follow great job
+13,"Awesome video tutorial on how to perform web scraping with Python using the Beautiful Soup library. Just curious does Python + Beautiful Soup can cover all web-scraping cases? 
+Can Python + Scrapy + Selenium  cover more difficult cases?",,awesome video tutorial perform web scrap python beautiful soup library curious python beautiful soup cover python scrapy selenium cover difficult
+14,"This course is mindblowing...
+first, the pace is excellent...no bullshiting, straight to the point, clear and concise,
+secondly, very detailed... I was able to scrap a real estate website for an analysis i wanted to do
+
+I have found web scrapping quite intimidating, but man this course made it so easy. You are a great teacher. Im short of words",,course first pace straight point clear concise secondly detail able scrap real estate analysis find web scrap quite man course make easy great teacher short
+15,This is the best Python educational video I've watched. The difficulty progression and pacing were perfect.,,best python educational video watch difficulty progression perfect
+16,"Fantastic! This video has been super helpful! If you have a little programming background, you can even fast forward through the video and just get your own piece of code done in half an hour! Very well done!",,fantastic video super helpful little background even fast forward video get piece code do half hour well do
+17,"The explanation is quite simple and clear...
+I love the way he explain little little things in the whole topic, so that every person can easily understand.
+",,explanation quite simple clear love way explain little little whole topic every person easily understand
+18,"This is a fantastic tutorial, probably one of the best I have ever come across. I came into this tutorial with 0 knowledge on web scraping, and came out of it with much more confidence. Excellent work!",,fantastic tutorial probably one best ever come across come tutorial knowledge web scrap come much confidence excellent work
+19,"This was amazing, I didn't know web scraping could be so easy",,amaze didnt know web scrap could easy
+20,"Great explanation, easy to follow. Just starting out with the whole scraping thing and here you get some good tips and concepts explained. Well done!! Thank you",,great explanation easy follow start whole scrap thing get good well do thank
+21,Absolutely brilliant course. An excellent introduction to web scraping and how python programmers solve problems. Well done.,,absolutely brilliant course excellent introduction web scrap python solve well do
+22,"I have to give a big thumb up for this tutorial!!!! Very well explained, easy to understand and great pace! I hope to see more tutorials from this teacher. Thanks!!!",,give big thumb tutorial well easy understand great pace hope see teacher thanks
+23,Great video man - I’m so excited that I was able to make a basic web scraper on my own after watching this  (but needs a ton of refinement! Haha). Thanks for a great video!,,great video man excite able make basic web scraper watch need ton refinement thanks great video
+24,Just a suggestion @37:09 it is better to use text.strip() method to remove unnecessary space from the beginning and the end. replace removes spaces from the company name as well.,,suggestion well use method remove unnecessary space begin end replace company name well
+25,"Thanks for the great tutorials as always from FCC and great work @JimShapedCoding. I  have learned a few tricks here for sure, one thing i have noticed there was that the code assumes structure of the HTML elements to be consistent and this will not always be the case with other websites, so its good to do some checks and handle some exceptions incase the element required is not found :)",,thanks great always great work learn sure one thing code structure consistent always case good handle incase element find
+26,Your teaching skills are simple and incredible! Thank you,,teach simple incredible thank
+27,Excellent quality content video and great teacher. Thank you Jim and free code camp,,excellent quality content video great teacher thank free code camp
+28,"I would like to thank you. You are a world-class tech teacher as you help me to decide and start my focus on web scrapping. Your way of explanation is so compelling.
+Please add other web scrapping tips on with your You Tube channel.",,would like thank tech teacher help decide start focus web scrap way explanation compel please add web scrap tube channel
+29,"Great video and very informative. It was very enjoyable, but I was just wondering what's the difference between .find(""div"") and .div? Thanks for making this video.",,great video informative enjoyable wonder whats difference div thanks make video
+30,"Thanks so much for the video , I was always curious how web scraping was done and you made it seem like it was a walk in the park , and it essentially was !",,thanks much video always curious web scrap do make seem like walk park essentially
+31,I really loved your content! Thanks for helping me with paced and informative explanations!!!! Looking forward to many tutorials from you!!,,really content thanks help pace informative look forward many
+32,"This is so cool! I just finished the whole video and was able to follow through. It's amazing to know what Python can do.
+
+Thank you!",,cool finish whole video able follow amazing know python thank
+33,"Great video! I was struggling with extracting the data from the website, but you did a great job explaining!",,great video struggle data great job explain
+34,Just 15 minutes into the course and I'm already feeling like a web scraping pro . Thank you so much,,course already feel like web scrap pro thank much
+35,"Great video! Great tutorial! Great teacher! You have explained it very clearly, thank you!",,great video great tutorial great teacher clearly thank
+36,"The word 'Web Scrapping' was like a nightmare for me before I saw this video.
+Everytime I saw any web scrapping job in the job portals I was assuming that it's beyond my scope.
+But now I am confident enough to answer questions related to this after going through this video and doing some hands on as well. 
+
+Thanks to Jim for such a beautiful explanation and thanks to FCC too for uploading the tutorial video. ",,word web scrap like nightmare saw video saw web scrap job job assume beyond scope confident enough answer relate go video well thanks beautiful explanation thanks tutorial video
+37,"Wow, what a quality content, systematic and well taught. Thank you.",,wow quality content systematic well taught thank
+38,"Amazing tutorial! Super easy to understand tutorial! 
+Thank you, Jim!",,amaze tutorial super easy understand tutorial thank
+39,"Great Tutorial. It was very informative. Way better than paid courses. Thumbs up man!!!!!!!
+I have subscribed to your channel.",,great tutorial informative way well man channel
+40,Great explanation. It would be wonderful if we could have a tutorial on scrapy as well,,great explanation would wonderful could tutorial scrapy well
+41,One of the best tutorials for beginners...wow.I just played in 0.9x speed and it was very clear.Thank you to this guy and the channel.,,one best speed guy channel
+42,"Voww voww voww. I loved this tutorial. Followed from beginning to end. I liked it that you put the filtering condition while scraping the data, extra features and all. Just awesome. This is a must watch for all beginners. Huge thanks to both Jim and FCC",,tutorial begin end put filter condition scrap data extra awesome must watch huge thanks
+43,Very clear the process step by step. Wonderful educational material ! Thank you so much !,,clear process step step wonderful educational material thank much
+44,Thank you for the well paced and informative tutorial.  Best web scraping intro I've found.,,thank well pace informative tutorial best web scrap find
+45,"Great video. Would love similar web scraping videos for Twitter, Reddit, Amazon, and Instagram.",,great video would love similar web scraping twitter
+46,"really awesome video.... I don't think i have ever commented on a video tutorial before and i have watched a ton of them... but this is by far the best video tutorial i have ever watched.... thanks FCC, thanks Jim",,really awesome video dont think ever video tutorial watch ton far best video tutorial ever watch thanks thanks
+47,"Really love your clear explanation, the word that you pick is comprehensible. Keep up the good work!!!",,really love clear explanation word pick comprehensible keep good work
+48,"I see some comments about people receive none from scraping responses, unfortunately it might be expected from websites that are dynamically changed and being updated, there is a great chance that the website had some updates in this 4-month span, and then it affects your results. Try to scrape differently by inspecting to the elements like I show in the website user interface :)",,see people receive none scrap unfortunately might dynamically great chance span try scrape differently like show user interface
+49,Beautiful! I would definitely recommend for anyone starting out with web scraping.,,beautiful would definitely recommend anyone start web scrap
+50,"Excellent content...  structured and explained in a way easy to understand. I'm not native english spoken and still learning both english as python. So, thank so much. 
+
+Can you give us some strategies to handle pagination ? Selenium maybe or other one ?",,excellent content structure way easy understand native spoken still learn python thank much give u handle pagination selenium maybe one
+51,A one hour video for bs4 tutorial explaining everything in such clarity and detail. This dude is nuts! Just take my like and subscribe. Just take it all.,,one hour video tutorial explain everything clarity detail dude take like subscribe take
+52,"Thank you so much for the wonderful tutorial, you have great skills with Python as well as in teaching. It was a great learning experience !",,thank much wonderful tutorial great python well teach great learning experience
+53,"Having requirements.txt file to quickly set up my own virtual environment would be very convenient. Otherwise excellent tutorial! I liked the pace, the logic, the structure, the speech of the presentation.",,file quickly set virtual environment would convenient otherwise excellent tutorial pace logic structure speech presentation
+54,"Excellent tutorial, very well explained. Thank you!",,excellent tutorial well thank
+55,"A great tutorial, well explained, well organized, high recommended for anyone who want to understand webscraping using python.",,great tutorial well well organize high anyone want understand python
+56,Great Explanation . Great  tutor . Explained each and everything in very simple and logical way . You deserve my salute for this lecture SIR !,,great explanation great tutor everything simple logical way deserve salute lecture sir
+57,Great video. One quick question although. At the moment we are searching the hard coded values. Is it possible to scrape the information based on the matching pattern?,,great video one quick question although moment search hard possible scrape information base matching pattern
+58,"Great tutorial! I would add that you can name the file with a unique timestamp, because after 10 minutes the files would get overwritten if you are just using the index",,great tutorial would add name file unique would get index
+59,Great Video!!! I've wanted to learn web scraping for a while and this video just saved me so many hours. Just awesome!,,great video learn web scrap video save many awesome
+60,"I have already tried different videos and sources for this. Not all had much detailed knowledge. I really appreciate how he explained all the necessary steps. Tips were really great. Thank you for the video,",,already try different much detail knowledge really appreciate necessary really great thank video
+61,"Thank you so much for such a short and very informative video!
+It helped me a lot!",,thank much short informative video lot
+62,"this video is incredible useful and amazingly explained, thank you very much for all the info <3",,video incredible useful amazingly thank much
+63,very beautiful tutorial !  Thank you very much.  You taught me the basics of web scraping in approx. 68 minutes,,beautiful tutorial thank much taught web scrap
+64,"Great explanation, clearly showing step by step approach. Appreciate it !!!!!!!!",,great explanation clearly show step step approach appreciate
+65,Thank you so much. Leant web-scrapping and completed my assignment in just a few hours.,,thank much leant assignment
+66,Great contribution from FCC team!. After a long time I could reach the right content for learning web scrapping and loving it. Before  that I have checked a lot of web scrapping related tutorial which made me frustrated! Love you man....,,great contribution team long time could reach right content learn web scrap love check lot web scrap related tutorial make love man
+67,"I absolutely love this channel, thanks for teaching us about coding",,absolutely love channel thanks teach u
+68,I really enjoyed this tutorial... So detailed and easy to understand.,,really tutorial detailed easy understand
+69,This surely is one of the best tutorial on web scraping. I was hoping to see how to iterate for listing spread across multiple pages.,,surely one best tutorial web scrap see iterate list spread across multiple
+70,"Outstanding explanation and learned a lot. Thanks, Jim for your great efforts. I love your PyCharm code editor theme. Please tell me which theme are you using in this content.",,outstanding explanation learn lot thanks great love code editor theme please tell theme content
+71,"Hi Jimshaped, thank you for this tutorial, it's really clear and helpfull.
+Sincerly, the code isn't so long but is it possible to copy it or download it somewhere? thank you :-)",,hi thank tutorial really clear code long possible copy somewhere thank
+72,"such a great course  to walk me through the whole logic about web scraping, thx a lot !",,great course walk whole logic web scraping lot
+73,"Amazing work! easy web scraping right off the bat, thanks also for the effort in putting words to english.",,amaze work easy web scrap right bat thanks also effort
+74,"Thank you for such a great video! I have question as you said at the beginning that we will scrap only the first page, is it possible to create a prg that goes through all the existing pages (supposing that we have a limited number of pages,  15 for example). Would it be possible?",,thank great video question say begin scrap first page possible create go suppose limited number example would possible
+75,"just finished the video and followed all along the series. it all did great!
+thanks sir.",,finish video along series great thanks sir
+76,A great video thanks!!! But can you add how you do pagination as well or if you have another video for that for when the list of jobs go to multiple pages?,,great video thanks add pagination well another video list go multiple
+77,"An hour, well spent. Good job and thank you!",,hour well spend good job thank
+78,"This is some quality content, it is much appreciated!",,quality content much
+79,"This is really a wonderful tutorial, thank you!",,really wonderful tutorial thank
+80,Great tutorial! Very easy to follow along.,,great tutorial easy follow along
+81,Thank you for posting! Great video & very insightful. Anyone running into issues with lxml can use html.parser as the second parameter to BeautifulSoup() and it works the same.,,thank post great video insightful anyone run use second parameter work
+82,Thank you! One step further would be to add Selenium to the project so that you can navigate also to the next page... I would be very interested in that (how to navigate with selenium and the parse the results after an action with beautifulsup),,thank one step would add selenium project navigate also next page would interested navigate selenium parse action
+83,What a masterclass!! Thanks!!,,thanks
+84,"super cool content, great quality, sound, resolution, everything. Very easy to understand also. Thank you so much.",,super cool content great quality sound resolution everything easy understand also thank much
+85,Very useful information in a very easy to understand style. Thank you.,,useful information easy understand style thank
+86,"Very great video and explanation! However, is it possible to scrape through all pages instead of just page 1?",,great video explanation however possible scrape instead page
+87,"Great and wonderful lecture!!! Thanks a lot, JIM",,great wonderful lecture thanks lot
+88,57:40 simply store the input of the user in a list variable and using the for loop to check if any of the input is not in the skills variable,,simply store input user list variable loop check input variable
+89,"Great course.
+If you could post a web scrapping with Selenium course it would be nice.",,great course could post web scrap selenium course would nice
+90,Very nice tutorial. Have you done one on pagination?,,nice tutorial do one pagination
+91,"Hi Jim, very cool video! I tried to run a code to parse some data from a website, but I am getting an error when using the "".text"" filter it return an error when the resulting valeu is None. It occurs sometimes when a certain tag exists in one container but not in the other. I should probably write a function right?",,hi cool video try run code parse data get error text filter return error result none sometimes certain tag one container probably write function right
+92,A great tutorial. Thank you very much for this :D,,great tutorial thank much
+93,"Excellent video, so well explained. 
+Thank you!",,excellent video well thank
+94,"Very tight presentation for beginners, and greybeards like me can skip around, iterate, and then see how you chose to do it. 5 ",,tight presentation like skip around iterate see chose
+95,Well explained and useful. Thanks!,,well useful thanks
+96,Thank you so much for taking the time to make this video. I appreciate you,,thank much taking time make video appreciate
+97,Well done! Great instructor ,,well do great instructor
+98,"This tutorial was quite great!
+Super job dude.",,tutorial quite great super job dude
+99,"Nicely done, sir! Thank you!",,nicely do sir thank
+100,"This is a good tutorial thanks, very well explained  :)",,good tutorial thanks well
+101,Thank You very much. I spent my day watching this. You guys are absolutely great.,,thank much spend day watch absolutely great
+102,Absolutely fantastic! Thank you very much!!,,absolutely fantastic thank much
+103,"Great video, thank you for the walk-through!",,great video thank
+104,"Hi there! Thanks for creating this video, it's great! This video is aiding me to learn extracting data from websites. Though I have a question that how to extract data from a website where our interested information is present in the middle of the page. Furthermore, all sections use the same kind a tag (say 'div') that highlight sections of information(including our section of extraction) and these tags have same values for 'id' and 'class' variable. Also, how to only extract that interested data and not the whole page with these following conditions and append it to a csv file. I am working on a project where we require to extract data from journal websites for their manuscript requirements. Your comment on this would be great!",,hi thanks video great video learn data though question extract data interested information present middle page furthermore use kind tag say div highlight section extraction id class variable also extract interested data whole page follow append file work project require extract data journal manuscript comment would great
+105,"Great video, very clear and interresting, thank you so much",,great video clear thank much
+106,Best 1 hour I spent on youtube in a while. Thank you for this FreeCodeCamp!,,best hour spent thank
+107,You are one of the best educator that I have ever seen.I am impatient to see your other videos.Thanks for everthing,,one best educator ever impatient see
+108,To the point content with real world scenarios. The only drawbacks would be that this tutorial was missing an example of filtering html element by multiple attributes and some sites have infinite scrolling which displays more content as you scroll down.,,point content real world would tutorial miss example filter element multiple infinite content scroll
+109,Best Web Scraping video out there for beginners.,,best web scrap video
+110,This is my third course that i finished with Jim about Python !!! Thank you,,third course finish python thank
+111,Thank you for this useful crash course. Finally I could retrieve pdf files from my personal portfolio.,,thank useful crash course finally could retrieve personal portfolio
+112,"Actually interesting course, thank you :)",,actually interesting course thank
+113,This is a very thorough course. I know a little something about webscraping but I'm enjoying this nonetheless. Thanks!,,thorough course know little something enjoy nonetheless thanks
+114,This is one of the very good courses to start with learning web scrapping,,one good start learn web scrap
+115,"Brilliant, excellent content, thanks a lot... I also wonder about how we parse multiple pages on website at the same time.",,brilliant excellent content thanks lot also wonder parse multiple time
+116,"this is an excellent course, very useful. and I want to ask, how is the information data that has been obtained exported into excel in python?. Thank you sir",,excellent course useful want ask information data excel python thank sir
+117,Very nice course. The best web scraping course ever. thank you very much.,,nice course best web scrap course ever thank much
+118,Anything related to Programming and CS can be learn here easily. Great videos,,anything related learn easily great
+119,Thank you for this amazing tutorial. Very cool use factor.,,thank amaze tutorial cool use factor
+120,It was a great tutorial and informative Thanks for making this code Sir,,great tutorial informative thanks make code sir
+121,"Thanks for this, the lecture is really quite educative.",,thanks lecture really quite educative
+122,That helped a lot. Thank you Jim!,,lot thank
+123,really good tutorial & easy to understand for someone who knows html/css,,really good tutorial easy understand someone
+124,Excellent course. Thanks Jim.,,excellent course thanks
+125,"this is exactly what I was looking for, thanks a lot",,exactly look thanks lot
+126,"Great course! I can't get over how he says ""beautiful soup"" it's wonderful",,great course cant get beautiful soup wonderful
+127,"wonderful tutorial ,thank you so much",,wonderful tutorial thank much
+128,Awesome addition to already great content!,,awesome addition already great content
+129,What an exceptional video. Thank you so much /\,,exceptional video thank much
+130,"wow this is a very good free material and it just cover up more than what ""Automate the Boring stuff with Python"" book taught me. this guy just get to the point and did not complicate anything.",,wow good free material cover boring stuff python book teach guy get point complicate anything
+131,Thank you so much! This has made looking for new jobs so much easier.,,thank much make look new much easy
+132,"Great class.
+Keep up the good work.
+
+Thank You,
+Natasha Samuel",,great class keep good work thank
+133,What about websites that use Cloudflare? And thank you very much for the small and informative course.,,use thank much small informative course
+134,"I love this series ,   thank you",,love series thank
+135,"Thank your for the clear and precise video on web scraping. I watched your video to refresh my memory.
+
+Btw I must ask, did you update pip? :)",,thank clear precise video web scrap watch video refresh memory must ask update pip
+136,How do we avoid the 403 Forbidden and the cookies when scrapping ? Thank you for the videos !,,avoid forbidden scrapping thank
+137,"for 37:09, you could also just use the .strip() function",,could also use strip function
+138,cant thank u enough for great content,,cant thank u enough great content
+139,Thanks so much for this... I was sailing in a sea of confusion until I found this... and to imagine its ALL free? like just amazing...,,thanks much sail sea confusion find imagine free like amaze
+140,"Instead of using .replace(), you can also use .strip() to eliminate white space from both sides :D",,instead replace also use strip eliminate white space side
+141,thanks jim and FCC for this amazing crash course!,,thanks amaze crash course
+142,Amazing!! Thankyou so much for this video. i wish i could  have found this video sooner :),,amaze much video wish could find video sooner
+143,Masterclass! i learned a lot,,learn lot
+144,Thank you #FCC this is vedio was  very much helpful for me to start my first project after completing python basics...And thank you bro for excellence teaching i understood we well about this web scraping and i will be read to scrap any websites after this video ,,thank much helpful start first project python thank excellence teach understood well web scrap read scrap video
+145,"you made it very easy for me i just scrapped leetcode after watching your videos
+thanks a lot for such a great quality education for free",,make easy scrapped watch thanks lot great quality education free
+146,Perfect tutorial. Thank you very much,,perfect tutorial thank much
+147,Better than my online course that I purchased.,,good course
+148,Got a clear understanding of everything! Thanks @JimShapedCoding !,,get clear understand everything thanks
+149,Thanks for this tutorial. Helped me write my next little project. Easier to parse jobs.,,thanks tutorial write next little project easy parse
+150,This is definitely one of the best hours I spent on YouTube. :),,definitely one best spent
+151,Thank you for such a good tutorial.,,thank good tutorial
+152,The world doesn't deserve this channel. I love you guys. ,,world doesnt deserve channel love
+153,Thanks a lot for this amazing material!!,,thanks lot amazing material
+154,Very good tutorial. Thanks!,,good tutorial thanks
+155,amazing crash course thanks a lot :),,amaze crash course thanks lot
+156,"Thanks so much for this tutorial. As someone who is just starting out with web scraping, this has been super helpful. I  attempted your steps and was able to perform most of it. However, I constantly see an error ""'NoneType' object has no attribute 'text'"". The error points to this line ""posting_time = job.find('span', class_ = 'posting-time').text"". Would be great if you or anyone else could help with this.",,thanks much tutorial someone start web scrap super helpful able perform however constantly see error object attribute text error line class would great anyone else could help
+157,"I rarely comment, but thank you, brother! Amazing job. + Subscribed to you as well, now",,rarely comment thank brother amaze job well
+158,"Great tutorial, I think you forgot to mention one major issue: how to scrape in multiple pages, for now this script can scrape only one page and nobody is going to make all that for only a page.",,great tutorial think forget mention one major issue scrape multiple script scrape one page nobody go make page
+159,Great Tutorial and very well explained ..,,great tutorial well
+160,"Thanks for the video, helped me a lot ! ",,thanks video lot
+161,"very well done, thnx mate for the informative stuff",,well do mate informative stuff
+162,"If you are having problems with error 403, try add an user-agent to your request",,error try add request
+163,Great tutorial. Question - What if I want to save all the jobs in one file instead of separate files? Thank you in advance.,,great tutorial question want save one file instead separate thank advance
+164,"I think I took note of everything I needed to know, thanks!",,think take note everything know thanks
+165,"Thank you so much for the video, it's really good!!",,thank much video really good
+166,Please post few more videos on web scraping. This video is really very helpful. I need a video to scrape the data from pdf file in a  sequence whatever we need  through python,,please post web scrap video really helpful need video scrape data file sequence whatever need python
+167,"Thanks, bro it helped me a lot in understanding the basic concept
+Subscribed to your channel",,thanks lot understand basic concept channel
+168,Amazing video. I learnt a lot.,,amaze video learnt lot
+169,"Thank you, followed all the tutorial doing my custom script on another website.
+
+I have a question though. How do we save all that info in just one file per script run?",,thank tutorial custom script another question though save one file per script run
+170,This was a fun experience. Thanks!,,fun experience thanks
+171,"this is a great video to study. thank you for this video. But I have a question if I want to scrap the data jobs into an excel file or into database such as SQL Server,  instead of a notepad. Is it ok? Can somebody show me a way to do that if it is possible? 
+Thank you",,great video study thank video question want scrap data excel file server instead somebody show way possible thank
+172,"Truely amazing content. Though I am running into a problem. My output is coming in lists even with the same codes. So the code 
+if unfamiliar_skill not in skills:
+is not able to filter out the skill I input. Any solution pls.",,amazing content though run problem output come even code able filter skill input solution
+173,You should definitely do a course on GO Web programming!,,definitely course go web
+174,"I really learned from ur tutorial 
+Thank you so much for the good explanation",,really learn ur tutorial thank much good explanation
+175,"Good video 
+I understand all the basics of web scraping using beautiful soup",,good video understand web scrap beautiful soup
+176,"Very useful, thanks!",,useful thanks
+177,What if we use stripe() method to remove only leading and trailing whitespaces? That won't hurt inner space or original texts,,use stripe method remove lead trail wont hurt inner space original
+178,Thanks for the tutorial. Learned something new,,thanks tutorial learn something new
+179,"Thanks a lot, it is really beautiful",,thanks lot really beautiful
+180,Great! Specially for automated running.,,great specially run
+181,"Amazing tutorial, really recommended",,amaze tutorial really
+182,Awesome video. Can you please throw some light on ip rotation proxy handled in web scrapping,,awesome video please throw light rotation proxy handle web scrapping
+183,"Hi, what is the tool you are using to read the html code?",,hi tool read code
+184,"Thanks I learned a lot,Very Nice Presentation of python code.",,thanks learn nice presentation python code
+185,thank you for the tutorial is very simple to understood,,thank tutorial simple understood
+186,"Great video, thanks a lot for it.  
+One observation though, I think the method strip() applies better to this case , rather than replace(' ','').  
+
+For example: 
+
+company_name = job.find('h3', class_='joblist-comp-name').text.strip()
+
+Cheers",,great video thanks lot one observation though think method strip well case rather replace example
+187,This is excellent. Could you tell me how to scrap a website that using Data table js?,,excellent could tell scrap data table
+188,"Awesome!
+Thanks a lot...it was very helpful
+Could you pls tell how to scrape multiple web pages?",,awesome thanks helpful could tell scrape multiple web
+189,Thank you for explaining so simple,,thank explain simple
+190,It is a nice intro to scrapping for beginners.,,nice scrapping
+191,You have no idea how much this video helped me T_T thank you!,,idea much video thank
+192,"Link to the home.html file: https://github.com/jimdevops19/codesnippets/tree/main/Python%20Web%20Scraping/01%20-%20Scraping%20Basics
+
+Alternatively if you want to be safer and you’re worried about that link, go to his official website and navigate to get to the same website:
+http://www.jimshapedcoding.com/",,link file alternatively want worried link go official navigate get
+193,Your teaching is amazing man.,,teach amaze man
+194,Can you scrape websites that use template engines like handlebars? If yes kindly give me some pointers or methods. Thx a lot everyone for your time and help,,scrape use template like yes kindly give lot everyone time help
+195,you teaching skills are another level really thanks alot,,teach another level really thanks
+196,This was an amazing introduction. Thank you! You have a new sub JimShapedCoding.,,amaze introduction thank new sub
+197,This is my third course that i finished with Jim about Python !!! Thank you,,third course finish python thank
+198,This is definitely one of the best hours I spent on YouTube. :),,definitely one best spent
+199,Link to the home.html file: https://github.com/jimdevops19/codesnippets/tree/main/Python%20Web%20Scraping/01%20-%20Scraping%20Basics,,link file
+200,Thank you so much. Great Tutorial!,,thank much great tutorial
+201,"Like literally the best youtube video ever made. It is so good!
+Love you guys!",,like literally best video ever make good love
+202,Great Explanation in a simple way,,great explanation simple way
+203,Thank you so much. Valuable content,,thank much valuable content
+204,"Thank you, you've helped me a lot",,thank youve lot
+205,Great tutorial ,,great tutorial
+206,"So Amazing! , what a great tutorial!",,amaze great tutorial
+207,Very informative about data scrapping.,,informative data scrap
+208,Thanks for such a great video!,,thanks great video
+209,Thanks!  What can we do to signal if the website changes and the code isn't working properly?,,thanks signal code work properly
+210,"Thanks so much for the video. Really enlightening. 
+
+47:00, don't you think the 'published date' should be before the for loop and not inside it?",,thanks much video really enlighten dont think date loop inside
+211,"Great tutorial, thank you !!",,great tutorial thank
+212,could you please share your html code so I can also use that one as a reference please?,,could please share code also use one reference please
+213,"question: to get the ""more_info"" (the job url), why use ""...job.header.h2.a['href']"",  instead of ""job.find()"" like on company and skills?",,question get job use instead like company
+214,"thanks for this awesome course but could you please check the link for the codes, it seems broken.",,thanks awesome course could please check link broken
+215,good video.  I learned many interesting things. keep it up.,,good video learn many interesting keep
+216,Thanks for the content!!! Really appreciated!,,thanks content really
+217,I have a question how do you know that the output will be printed out on a txt file when in the python code its only to index?,,question know output print file python code index
+218,Thank you so much for such a great video,,thank much great video
+219,"Nice tutorial. Plus, very original way of pronouncing 'the'.",,nice tutorial plus original way
+220,Awesome tutorial for sure.,,awesome tutorial sure
+221,This is exactly what i was looking for! tks so much Jim!,,exactly look much
+222,"Thanks for the content. Careful in using the ""if few"" statement. If a post is posted today, you get the ""posted today"" and this would be discarded by that ""if."" Apart from that great tutorial!",,thanks content careful statement post post today get post today would apart great tutorial
+223,Thanks for this tutorial. I've i followed every step and have successfully scraped data from my chosen website. This is great content,,thanks tutorial every step successfully scrap data choose great content
+224,"Keep it up man, this just beautifull.",,keep man
+225,it was really mind-blowing,,really
+226,"Very nice tutorial, thanks",,nice tutorial thanks
+227,37:25  we can also use strip function instead of replace,,also use strip function instead replace
+228,"One question: every 10 min, wouldn't the files be overwritten since they'll still be named after the index (which starts with 0)?",,one question every min wouldnt since theyll still index
+229,Thank you !!. Lots of love. Beautifully explained.,,thank lot love beautifully
+230,Amazingly Explained !!!,,amazingly
+231,Can someone please clarify when to use .find(sample_tag) function and when to use .sample_tag attribute ? Thanks in advance !,,someone please clarify use function use attribute thanks advance
+232,"This is code for unfamiliar skills:- This is code making filter for unfamiliar skills
+If you have any efficient code please share!
+
+
+print(""Give the skill that you are not familiar with"")
+unfamiliar_skill = input()
+unfm_s = unfamiliar_skill.split()
+for job in jobs:
+    flag = True
+    published_date = job.find(""span"",class_=""sim-posted"").span.text
+    if ""few"" in published_date:
+        company_name = job.find(""h3"",class_=""joblist-comp-name"").text.replace("" "","""")
+        skills = job.find('span',class_=""srp-skills"").text.replace("" "","""")
+        link = job.header.h2.a['href']
+        for i in unfm_s:
+            if i not in skills:
+                flag = True
+            else:
+                flag = False
+                break
+        if flag == True:
+            print(f""""""Compnay Names: {company_name.strip()}\nSkills: {skills.strip()}\nLink:{link}"""""")
+            print(""\n"")",,code unfamiliar code make filter unfamiliar efficient code please share skill familiar input job flag true link flag true else flag false break flag true
+233,This was excellent!,,excellent
+234,Absolutely Fantastic! subscribed to your channel. Thanks a bunch! @jimshapedcoding,,absolutely fantastic channel thanks bunch
+235,"An excellent illustration of using Python to scrape a web page. Thanks.
+
+{2022-11-27}",,excellent illustration python scrape web page thanks
+236,Congrats man. Your eloquency is enough to teach anyone. Leave alone the content,,man enough teach anyone leave alone content
+237,Is it possible to add html file to work with used in this tutorial? Thank you,,possible add file work use tutorial thank
+238,"Awesome, thanks Jim !!",,awesome thanks
+239,"sir you are really amazing,, .. your way of explaining is very easy,,,,,",,sir really amaze way explain easy
+240,great video !! Thank you FCC and Jim,,great video thank
+241,"This is great, thank you . what are interface is that? Is it an editor where you're working in? If so what editor?",,great thank interface editor work editor
+242,Please tell me the difference between select and find all method and which one to use when,,please tell difference select find method one use
+243,"When the instructor prints the (jobs) the come out neatly organized in the terminal like you would see the source html code, but when I print out (jobs) they look so crammed with no indentations. Does anyone know how I can have similar results?",,instructor come neatly organize terminal like would see source code print look anyone know similar
+244,How do you scrape the information from other pages on the website?,,scrape information
+245,how do you extract the years of experience ? which is in the form of 2 - 3 yrs .. which is below the company name and beside the suitcase icon,,extract experience form company name beside suitcase icon
+246,"thanks for putting this very useful tutorial up! 
+anyone knows why was .header used instead of .find to scrape for 'more_info'? @52:53",,thanks useful tutorial anyone header use instead find scrape
+247,"Hi,
+
+I noticed that the replace() also eliminated the spaces within the name of the company. Is there any way to avoid that?
+
+Thanks",,hi replace also within name company way avoid thanks
+248,"Amazing Content, Keep it Up",,amaze content keep
+249,Will I be able to scrape e-commerce shopify websites using this? Like variants and all images in csv files?,,able scrape like
+250,Do you have a video showing how we can write this type of data into a spreadsheet? Into particular columns etc.,,video show write type data particular
+251,Very good video lesson excellent explanation and didactic congratulations,,good video lesson excellent explanation didactic
+252,"Nice tutorial video, thank you.",,nice tutorial video thank
+253,Good Lecture ,,good lecture
+254,Great job man!!!,,great job man
+255,Use text.strip() method to remove the white spaces at the beginning and ending of a string,,use method remove white begin end string
+256,this is a nice refresher for someone out of touch with things like myself,,nice refresher someone touch like
+257,great job and great video : ),,great job great video
+258,His teaching skills and accent are just fantastic.,,teach accent fantastic
+259,i love the fact that you made python code to find a python job,,love fact make python code find python job
+260,what level of python knowladge do i need before doing this? IS there any videos that you could recommend me for it?,,level python need could recommend
+261,"You know when Neo said "" I know ju-jitsu""? Now I can say the same....I know webscraping. :)) Thanks mate. You rock!!",,know neo say know jujitsu say know thanks mate rock
+262,"the link to the code snippets seems broken, is it possible to fix it? Anyway, many many thanks for another great tutorial!",,link code broken possible fix anyway many many thanks another great tutorial
+263,"The way he says, ""Excuse me,"" whenever he's fixing a variable name lol!! So polite
+
+Excellent tutorial thank you!",,way excuse whenever fix variable name polite excellent tutorial thank
+264,feeling satisfied after learning something..thank you free code camp,,feel satisfy learn free code camp
+265,"Count von Count leaves Sesame Street to pursue programming dream 
+
+Simple and thorough explanation ",,count count leave sesame street pursue dream simple thorough explanation
+266,"Just finished watching the video, thanks a lot bruh. It really helped a lot",,finish watch video thanks lot really lot
+267,37:25 can we use strip() method to eliminate all the white spaces??,,use strip method eliminate white
+268,Amazing explanation..️️,,amaze
+269,best 1h on youtube in my life. thanks for amazing video,,best life thanks amaze video
+270,"thankyou very much, this is the best course that i watched ever",,much best course watch ever
+271,"When I run the code from 12:20 in the video, I get the error:
+
+Traceback (most recent call last):
+  File ""C:\Users\Tommy Duffy\PycharmProjects\helloWorld\main.py"", line 6, in <module>
+    soup = BeautifulSoup(content, 'lxml')
+  File ""C:\Users\Tommy Duffy\PycharmProjects\helloWorld\venv\lib\site-packages\bs4\_init__.py"", line 243, in __init_ 
+    raise FeatureNotFound(
+bs4.FeatureNotFound: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+
+I installed the lxml library with no problems. HELP ME",,run code video get error recent call last file line module soup file line raise find tree builder need install parser library library help
+272,"remember to ""import lxml"" before using",,remember import
+273,Thank you so much for your nice lecture.....,,thank much nice lecture
+274,"Thanks genius explaining, wow",,thanks genius explain wow
+275,thank you so much for perfect course,,thank much perfect course
+276,"So this is a question to anyone willing to answer. I'm stuck in the beggining where you are labeling the hmtl_tags with ""course"" infront. Where are you getting ""course"" in the html to make it ""course_html_tags"" or ""course_cards"" etc?",,question anyone willing answer stuck course get course make
+277,so tried to scrape 2-3 websites so far and all i get is empty lists of arrays when am searching for html 5 tags so i did some digging and found out that some websites are JavaScript generated so the tags you see on the inspect element are not really there idk if am getting this right if you try to print the html_text in pycharm you can see what i mean is a totally different code no tutorial for that i guess but nice job i learned a lot,,tried scrape far get empty search digging find see inspect element really get right try print see mean totally different code tutorial guess nice job learn lot
+278,"This is what I need as I always working with data. 
+How can I get in contact with you for mentorship? 
+I will highly appreciate hearing from you.",,need always work data get contact mentorship highly appreciate hearing
+279,"57:35 My 2 answers :
+1) 
+        familiar_skills=input('>')
+        familiar_skills_list=familiar_skills.split(';')
+        required_skills_list=required_skills.split(',')
+        for i in required_skills_list:
+            if i in familiar_skills_list :
+                indicator+=1
+        if indicator==len(required_skills_list):
+            print.....
+
+2) 
+        familiar_skills=input('>')
+        familiar_skills_list=familiar_skills.split(';')
+        required_skills= job.find('span',class_='srp-skills').text.replace(' ','').split()
+        required_skills_list=(required_skills[0]).split(',')
+        check = all(item in familiar_skills_list for item in required_skills_list)
+        if check is True:
+            print.....",,print split check item check true print
+280,"This is what I need as I always working with data. 
+How can I get in contact with you for mentorship? 
+I will highly appreciate hearing from you.",,need always work data get contact mentorship highly appreciate hearing
+281,Yeah awesome information greatly appreciated.,,yeah awesome information greatly
+282,what a great content!!,,great content
+283,Great start in learning Web Scraping,,great start learn web scrap
+284,"Thank you for the tutorial it's really helpfull
+I was trying to access the site but it is down showing a error 500.",,thank tutorial really try access site show error
+286,"thankyou , great explanation",,great explanation
+287,Useful bro️,,useful
+288,"I got the same results for job.find(""span"", class_=""sim-posted"").text.strip() and job.find(""span"", class_=""sim-posted"").find('span').text.strip() Any idea how? Does .text method just remove all the <html> tags?",,get idea text method remove
+289,"Thanks, great video!",,thanks great video
+290,This is an amazing tutorial....,,amaze tutorial
+291,That is so great !,,great
+292,"Really good video, thanks",,really good video thanks
+293,Thank you very much for this effort...please make a elixir tutorial video.,,thank much make elixir tutorial video
+294,Excellent bro hats off to you,,excellent
+295,"time stamp - 45:50
+AttributeError: ResultSet object has no attribute 'find'. You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?",,time stamp object attribute find probably treat list like single element call mean call find
+296,Very silly question: Why do  we need python or any library at all to do web scraping? Doesn't vanilla js have all these methods like document.querySelectorAll?,,silly question need python library web scrap doesnt vanilla like
+297,"Great video, thanks.",,great video thanks
+298,great session,,great session
+299,amazing tutorial,,amaze tutorial
+300,Thank you very much for your lesson,,thank much lesson
+301,"this is my first time, when I watched the entire video without yawning. it was super interesting!",,first time watch entire video without yawn super interesting
+302,Thanks a lot for your video. How i can download all your code?,,thanks lot video code
+303,"Have no background in this at all, watching this before I’m required to know it…THANK YOU",,background watching know
+304,very good tutorial. unfortunatly it's not going to help me as im trying to scrape a java based website was worth a try I was hoping to not have to use visual studio I'm struggling with that and theres no decent tutorials for it :sigh:,,good tutorial go help try scrape base worth try use visual studio struggle there decent sigh
+305,Anyone know how I could use this to download all the videos from an online course I purchased?,,anyone know could use course
+306,"Very good lesson, greeting from 03/2022!",,good lesson greet
+307,Is his html file downloadable so that we can follow his steps (in the  beginning) him as he codes?,,file follow beginning
+308,how would one go about broadening the ability of this program by allowing the user to input the job description that is being searched for,,would one go ability program user input job description
+309,Thanks for this I was wondering about it.,,thanks wonder
+310,I learned web scraping better here for free than my almost $1000 course at Uni,,learn web scrap good free almost course
+311,I'm from italy and i can say that your english is very understandable from a 19 years old boy. Thanks a lot.,,say understandable old boy thanks lot
+312,Very informative video,,informative video
+313,Best tutorial of beautiful soup ever,,best tutorial beautiful soup ever
+314,Perfect tutorial,,perfect tutorial
+315,Beautiful.,,beautiful
+316,This was great.,,great
+317,"damn that timing^^
+Just two days ago i tried to do Web-Scraping with Python (to track PS5 availability) but it never worked bcs of captcha/recaptcha.
+Hope this will help me.",,damn time two day ago try python track availability never work hope help
+318,You guys are the best.,,best
+319,Great tutorial,,great tutorial
+320,"Awesome️️
+We also need selenium",,also need selenium
+321,Is web scrapping still effective since mostly html is automatically generate? Like react stuff,,web scrap still effective since mostly automatically generate like react stuff
+322,Awesome that's what i'm looking for,,awesome thats look
+323,Would I need PyCharm proffessional to make use of these libraries or is the community edition enough?,,would need make use community edition enough
+324,Instead of using replace we can use stirng(),,instead replace use
+325, love it,,love
+326,"I guess if I don’t know what you do with this training, I don’t need to learn it. Lol! ...But curious. What are the top things one might do with webscraping?",,guess know train need learn curious top one might
+327,i have a question : can we create keyword search tool with web scraping for ex: i want to know how many time a specific keyword was searched on the google searsh engine,,question create search tool web scrap ex want know many time specific engine
+328,"While using lxml, to parse, it says ""bs4.FeatureNotFound: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?"", What is to be done",,parse find tree builder need install parser library do
+329,Personal Timestamp: 18:30,,personal
+330,"from bs4 import BeautifulSoup
+
+with open('home.html', 'r') as html_file:
+    content = html_file.read()
+
+    soup = BeautifulSoup(content, 'lxml')
+    course_cards = soup.find_all('div', class_='card')
+    for course in course_cards:
+        course_name = course.h5.txt
+        course_price = course.a.txt
+        print(course_name)
+        print(course_price)",,import r content soup course
+331,"This is unnecessarily big as a video, but it's way better than someone else that just told you how to click using selenium.",,unnecessarily big video way well someone else tell click selenium
+332,nice course as a begginer,,nice course
+333,The best crush course.,,best crush course
+334,great tutorial.,,great tutorial
+335,"Please don't scrape bank websites unless you have contacted the financial institution first.  They can be a paranoid bunch, and often have ToS that limit what can be accessed and how.",,please dont scrape bank unless financial institution first paranoid bunch often limit
+336,Joder debo aprender inglés de una vez por todas.,,de
+337,"many thanks, but i want to ask where is the home.html file i can downlaod for learning?",,many thanks want ask file learn
+338,Great english ,,great
+339,"Jim: ""Now I will close back the head and then I will expand the body.""
+
+Me: ...sorry I think I'm in the wrong class.",,close back head expand body sorry think wrong class
+340,Not the best tutorial for beginners. Luckily i loaded up multiple tutorials from YouTube with plans to watch them all to see who would teach better. I watched Corey Schafer's tutorial first and is much easier to understand since he uses HTML language to explain how to target what you want from the html. His workflow is also easier to understand. Still appreciate the effort here .,,best tutorial luckily load multiple watch see would teach good watch tutorial first much easy understand since language explain target want also easy understand still appreciate effort
+341,Can you provide Github for this project?,,provide project
+342,hello can you please update the code link of the files,,hello please update code link
+343,"Nice i am in love with python , c# and unity",,nice love python c unity
+344,When I used the find_all for loop only one element in the list returned. What is the reason?,,use loop one element list return reason
+345,CAN ANYONE PLEASE SHARE THE HTML FILE THAT HE IS USED IN THIS VIDEO,,anyone please share file use video
+346,Outstanding!!,,outstanding
+347,"I think replace() should be replaced with strip(). I mean, strip() works better @37:00.",,think replace strip mean strip work well
+348,Is it possible if the website has multiple pages to scrap? And I want to get all of the data from all the pages,,possible multiple scrap want get data
+349,"what is the python code to get text which is not in any div, id or class?",,python code get text div id class
+350,Good job  ,,good job
+351,Great  video sir.,,great video sir
+352,Can you give the link of the web that can be scrapped off legally?,,give link web scrap legally
+353,"Long term subscriber, a great tutorial. Does YouTube have a remind me feature?",,long term subscriber great tutorial remind feature
+354,1. Of the best programming vids i have see,,best see
+355,"Not able to get code snippets. Showing Error 404 not found. If you can provide the code snippets, it would be very helpful. Thanks",,able get code show error find provide code would helpful thanks
+356,@41:07 I got everything just fine but I got a weird newline between Required Skills: and the skills when it printed. Any way to clean up newlines with text.replace?,,get everything fine get weird printed way clean
+357,Very nice explanation,,nice explanation
+358,"im using sublime text but what should I do with when I enter ubuntu to run the python script it tells me ""posts is not a file or directory""? I even used mkdir posts to see if that would work and it doesn't.
+also im in the same working directory",,sublime text enter run python script file directory even use see would work doesnt also work directory
+359,thanks for the good work,,thanks good work
+360,How do I import my html file into PyCharm?,,import file
+361,Where is the html code for the scrapping? On the website its not mentioned and not working,,code scrap work
+362,Nice Work!,,nice work
+363,Awesome Stuff!!! Thanks,,awesome stuff thanks
+364,really thanks the content was helpful,,really thanks content helpful
+365,How much do webscrapers make and is there a big market for it ?,,much make big market
+366,"Hi, does this Apply to intranet from a company?",,hi apply company
+367,"Hello, I am from a non-tech background. I want to learn python for data scraping only.
+
+Could you tell me on which website are typing python codes.
+I tried doing this on pycharm but it id not working (however I feel that how can it connect my website or file, probably that's why)",,hello background want learn python data scraping could tell python try id work however feel connect file probably thats
+368,Great course,,great course
+369,Make a web scrapping using Java also,,make web scrapping also
+370,how can i get the html source code for the home.html you scraped,,get source code scrap
+371,what if there is no class name only table or id ?? what should I do in this case??,,class name table id case
+372,"Is there a way to put all the results in text file, and not 5 billion text files?",,way put text file billion text
+373,Can we scrap a page that need login first ?,,scrap page need login first
+374,At last how to include all txts in one file rather than creating multiple text files?? please help,,last include one file rather multiple text please help
+375,thanks...am glad your video showed out the first when I searched,,glad video first
+376,thank you it was useful,,thank useful
+377,Wow you are an excellent teacher!!!!!!!!!!!!1,,wow excellent
+378,"Hi, which platform did he using to run this code jupyter or colab",,hi platform run code
+379,"The website I'm trying to request doesn't give me all the information from the website,  and it changes its script over time, guess that's the problem, what should i do? however thanks for the video.",,try request doesnt give information script time guess thats problem however thanks video
+380,it worked for scraping local html file but in real websites job is returned as an empty list or a nonetype what do i do,,work scraping local file real job return empty list
+382,What a LIFE SAVER..,,life saver
+383,"Hey guys,
+IF YOU HAVEING A PROBLEM WITH PYCHARM AND YOUR LXML CODE 
+IN 2022
+Where you code Pareser you need to code 
+
+features = ""lxml""
+
+
+lol, I had the same problem and i was working on this for days and days
+and they were no Youtube tutorials that were helping so it was very good to make that breakthrough
+i think there was an update in Pycharm that changed the way the Parasers will be working ,but yea GoodLuck!",,hey problem code code need code problem work day day help good make breakthrough think update way work yea
+384,53:51 what if I want to get the info inside that link as well? now just the link itself... thank you so much!,,want get inside link well link thank much
+385,"sorry any chance we can have the .html file you re using at the beginning (the one with 'learn python for 20$'), thx",,sorry chance file begin one learn python
+386,bs4.FeatureNotFound: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?,,find tree builder need install parser library
+387,How do you get the html file? I want to automatically check a website every few minutes.,,get file want automatically check every
+388,"My program keeps writing over the file, rather than creating a new one. Any suggestions?
+
+if 'few' in published_date:
+            company_name = job.find('h3', class_ = ""joblist-comp-name"").text.replace(' ', '')
+            skills = job.find('span', class_ = 'srp-skills').text.replace(' ', '')
+            more_info = job.header.h2.a['href']
+            if unfamiliar_skill not in skills:
+                with open(f'posts/{index}.txt', 'w') as f:
+                    f.write(f'Company Name: {company_name.strip()} \n')
+                    f.write(f'Required Skills: {skills.strip()} \n')
+                    f.write(f'More Info: {more_info} \n')
+                print(f'File saved: {index}')",,program write file rather new one class class w f name n n n save index
+389,Thank you!,,thank
+390,Thank you so much ,,thank much
+391,"bs4.FeatureNotFound: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+
+FIXED THIS, I think I just implemented html.parser by putting ""pip install html.parser"" in the windows terminal and then I replace .lxml to html.parser",,find tree builder need install parser library fix think pip install terminal replace
+392,I want a link to the html source code,,want link source code
+393,please describe webscraping with oops concept,,please describe concept
+394,Please can u Explain if i wanna scrape details from ( more_info link)  in 54:15,,please u explain scrape link
+395,What IDE are you using here?,,ide
+396,thank you very much brother,,thank much brother
+397,"I have a problem, the requests library give captcha after some results :(",,problem library give
+398,"I'm getting this error in PyCharm:
+bs4.FeatureNotFound: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+
+I am trying to run this code: 
+from bs4 import BeautifulSoup
+with open('/Users/bazilzainal/Downloads/bs4test.html', 'r') as html_file:
+    content = html_file.read()
+    soup = BeautifulSoup(content, 'lxml')
+    print(soup.prettify())
+
+
+I have also ensured that the lxml package is installed in my environment. Would anyone know how to solve this please? Thanks in advance!",,get error find tree builder need install parser library try run code import r content soup also package environment would anyone know solve please thanks advance
+399,"While scraping the timesjob html, jobs is not finding anything with the same class and returning None.
+Any ideas?",,scrap find anything class none
+400,Thanks a bunch ,,thanks bunch
+401,nice tutorial bro,,nice tutorial
+402,How can i login and do some scraping from a website with beautifulsoup ?,,login scrap
+403,Very Informative,,informative
+404,37:40 It would be nicer if you used .strip() instead of .replace(),,would use strip instead replace
+405,"The link to acces the home.html file throws a 404 error, where can I find the file to work with it?",,link file error find file work
+406,How to scrape a website which requires login authentication?,,scrape login authentication
+407,The code snippets link doesn't work. Where else can I get the code?,,code link doesnt work else get code
+408,"thanks, you just saved my time on 7:40",,thanks save time
+409,I am lost in the first few minutes itself! Not sure how did you use home.html? Where do I get that file?,,lose first sure use get file
+410,where can you get the files you are using? Example home.html,,get example
+411,Which text editor was he using..?,,text editor
+412,Can it grab specific message from email? Im trying to make an excel bot,,grab specific message try make excel bot
+413,thank you very much you are awesome,,thank much awesome
+414,"i have a problem with the empty brackets, when i want to scrap a title of h2 or h3 tags or a text which is between span tags when i run the code i get nothing or empty brackets. 
+can you help me ??",,problem empty want scrap title text span run code get nothing empty help
+415,Awesome video,,awesome video
+416,Where can I find the code associated with this video? I checked the link in the description but can't find the code.,,find code associate video check link description cant find code
+417,Thank you very much.,,thank much
+418,What should i learn before this video in addition to python basics??,,learn video addition python
+419,but what if I want to search inside the website input things hit buttons?,,want search inside input hit button
+420,Whats the multi paging concept ??,,whats concept
+421,So I have a question how can I practice web scraping I mean like practising problem solving on code forces is there a site to practice web scraping ?,,question practice web scrap mean like problem code site practice web scrap
+422,"At 33.40 when I print job, I have the output as ""[ ]"" . Why? how to fix this problem? I have done properly what u have done here.",,print job output fix problem do properly u do
+423,I am trying to access the code snippets but receive a '404 not found' error. Could you please check?,,try access code receive find error could please check
+424,Thank you for sharing,,thank
+425,"@8:50 he passes the Home.html file to the open function, I am trying to follow along so where did he get this file from?",,file open function try follow along get file
+426,"All is nice up until you try that on a real site and get blocked/banned because you're not able to hide the fact, that a script is trying to scrape a page. Then you get into the rabbit hole of chrome driver modification(s), full set of (user-agent) header rotation, javascript probing evasions, ip proxy rotation, cookies, captchas, behavioral patterns and way beyond that... Happy scraping then :-)",,nice try real site get able hide fact script try scrape page get rabbit hole chrome driver full set header rotation proxy rotation behavioral way beyond happy scraping
+427,"when I do print(Jobs) is just get closed brackets [] can anyone help?
+
+Edit: When I soup.find_all I get the brackets, when I do soup.find I get none, still need help",,get close anyone help edit get get none still need help
+428,Thank you. Спасибо.,,thank
+429,"I cant use find after using find_all,  help please.",,cant use find help please
+430,could you scrap ads that have been shared and paid for on social media? it would be awesome if I can cut some costs on ads-spy tools etc.,,could scrap social medium would awesome cut
+431,"30:36
+useful very hekpful",,useful
+432,"the website used here shows potential security risk, should I proceed or try something myself",,use potential security risk proceed try something
+433,Can I know what is the name of this code editor?,,know name code editor
+434,if you have problem getting text with the number use  import re,,problem get text number use import
+435,"I am not sure how to run my code, it returns errors but I have everyting installed....  should I use the terminal? Or how can I see my code outpot? can some1 help me ?",,sure run code use terminal see code help
+436,Thanks ,,thanks
+437,"my bs4 file is not being found, beautiful soup is installled and in site-packages folder. Anyone seen this before?",,file find beautiful soup folder anyone see
+438,thank you!,,thank
+439,Can anyone help me with getting the link for double underscore name = double underscore main. I am not seeing any link. Thanks!!,,anyone help get link double underscore name double underscore main see link thanks
+440,thank you !,,thank
+441,if I want to print html_text I always get <Response [200]> can someone help me with that?,,want print always get response someone help
+442,"when I use find function to find anything. Showing an error "" 'NoneType' object has no attribute 'find' """,,use find function find anything show error object attribute find
+443,"Commenting here for those who need the website right now. I am very sorry but I ran into some issues that forced me to take it down temporarily, everything will be back up by 18/1/2021.",,need right sorry run forced take temporarily everything back
+444,"33:53 for some pages, isometimes it won't show any script , and i read it's because of java on client side, im lost",,wont show script read client side lose
+445,You have not shared anywhere this main.py code :(,,anywhere code
+446,Thank you so much,,thank much
+447,Thank you so much,,thank much
+448,Thank you so much,,thank much
+449,Good one,,good one
+450,how do i find the beautiful soup file,,find beautiful soup file
+451,It's awesome :)))))))).,,awesome
+452,Amazing,,amaze
+453,"File ""c:\Users\Username\Documents\python\noni.py"", line 1, in <module>
+    from bs4 import BeautifulSoup
+ModuleNotFoundError: No module named 'bs4
+
+What am I doing wrong :(",,file line module import module wrong
+454,What if it's a website in which I need to login to use? How should I use the request then?,,need login use use request
+455,ModuleNotFoundError: No module named 'bs4' i keep getting this error,,module keep get error
+456,Really Good,,really good
+457,ModuleNotFoundError: no module named ‘bs4’,,module
+458,code snippets URL not found. Please provide the code.,,code find please provide code
+459,the text storing part doesn't work for me :(,,text part doesnt work
+460,Good job,,good job
+461,How to scrape data from age restricted videos?,,scrape data age restrict
+462,"Is there a way I can get text from this tag, <span data-v-7372d7ee="""" class=""heading"">22°C</span> ?",,way get text tag span
+463,A request please do another crash course with SCRAPY,,request please another crash course scrapy
+464,"Hi, I am not getting a 200 code or anything as a response to the request. could you help, please",,hi get code anything response request could help please
+465,"when i tried to install lxml it says 
+
+ Could not find function xmlCheckVersion in library libxml2. Is libxml2 installed?
+
+can anyone tell me solution step by step in windows 11",,try install could find function library anyone tell solution step step
+466,What does lxml realy means? is like an html extension?,,like extension
+467,"I really could have used this 4 months ago....
+I’m still gonna watch it though",,really could use ago still watch though
+468,"So, your going to.... :))
+Good lecture. Thanks !",,go good lecture thanks
+469,Udemy scraping  will be my second project,,scrap second project
+470,What about when the text is in <span,,text span
+471,thanks a lot!,,thanks lot
+472,very good,,good
+473,Omg I was thinking just about this and you posted this. Are you guys some kind of wizard.,,think post kind wizard
+474,it is possible to click on a button using Beautiful Soup?(a botton that has no link),,possible click button beautiful link
+475,good job,,good job
+476,pls what interpreter are you using ?,,interpreter
+477,Can't extract company name. Error... find() can't have a keyword,,cant extract company name error find cant
+478,"Throws following error when I tried to access indeed.com.
+Can anyone explain
+requests.exceptions.ConnectionError: ('Connection aborted.', PermissionError(13, 'Permission denied'))",,follow error try access anyone explain connection abort permission
+479,thank you so much,,thank much
+480,I want to learn how to scrape through a website which requires login details,,want learn scrape login
+481,"Hello Jim, can we connect once if you are free, I'm facing a lot of challenges, can we meet via gmeet?",,hello connect free facing lot meet via
+482,"love and respect from #India, thanks a lot.....",,love respect thanks lot
+483,u  kill it bro,,u kill
+484,how can I get the job title ? and I want a way to delete the excessive spacing just one \n,,get job title want way delete excessive space one n
+485,sample code link is not working,,sample code link work
+486,Your teaching is good,,teach good
+487,"İ got   an Error   AtributeError:""NoneType"" object has no attribute ""find"" i wrote  the same  code  but  i could not  get  scraping  element. in my  command  prompt or in  Idle. Please  inform me  İ  wil be  glad if so:::::",,get error object attribute find write code could get scraping element command prompt idle please inform glad
+488,good video,,good video
+489,What editor are you using?,,editor
+490,"I dont think the link after ""You can get code snippets here: "" works.",,dont think link get code work
+491,What IDE is he using?,,ide
+492,I've connected to my Google home using blue tooth and am listening the lesson there,,connect home blue tooth listen lesson
+493,where can i get source code ????????,,get source code
+494,"its not working for me 
+apparently there is some error with lenght",,work apparently error
+495,Can anyone give me source code for this \The link is not working for codesnippets,,anyone give source code link work
+496,"It worked, the it just stop working, i didn't change anything, 
+
+it went from show the result to saying none 
+
+to saying [ ] 
+
+to saying _init__.py"", line 310, in __init_ 
+    elif len(markup) <= 256 and (
+TypeError: object of type 'Response' has no len()
+
+
+the file has no more than 15 lines, how is it reading line 310?",,work stop working didnt change anything go show result say none say say line object type response file reading line
+497,thanks got it,,thanks get
+498,I finished :'),,finish
+499,"I’m getting error on installing chrome driver , can anyone help ?",,get error chrome driver anyone help
+500,"After changing the job into jobs it's showing find can't take arguments, can anyone help me out with this?",,job show find cant take anyone help
+501,Please share your code,,please share code
+502,Thank you,,thank
+503,Thank you,,thank
+504,please what IDE did you use here?,,please ide use
+505,may I ask what is the app that you are using?,,may ask
+506,"I got an error bs4 reportMissingModuleSource.
+Please, anyone, solve this error.",,get error please anyone solve error
+507,Thank  you,,thank
+508,Source Code ?,,source code
+509,"I'm trying to scrape a youtube channel page and when I do print(content) I get ""UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 1069324: character maps to <undefined>"". help anyone?",,try scrape channel page get cant decode position character undefined help anyone
+511,Nice,,nice
+512,Can someone please sned the HTML file for this video. I am unable to open the website.,,someone please sned file video unable open
+513,Which code runner application. He use?,,code runner application use
+514,why does the 'course.h5' format not work for me?,,format work
+515,can you develop a Alzheimer's detection using Brain MRI as a challenge within 3 days?,,develop detection brain challenge within day
+516,"I can’t do it bc at the top the 
+from bs4 import BeautifulSoup and the
+import requests were both errors.",,top import import
+517,I'm a Web Scraper Now:),,web scraper
+518,Nice source code site is down :(,,nice source code site
+519,Link for CODE SNIPPETS is not working. Please fix it.,,link code work please fix
+520,thank you,,thank
+521,maybe share link from HTML code????,,maybe share link code
+522,"I keep getting [SSL: CERTIFICATE_VERIFY_FAILED], 
+please help I've literally tried everything (I have windows 10 installed).",,keep get please help literally try everything
+523,"Guys How can I solve ""with open('home.html', 'r')"" error 
+Terminal shows me(No such file or directory: 'home.html')",,solve r error terminal file directory
+524,"He uses PYcharm and not VS code, off to a good start.....but then sees he uses windows and not MAC.....",,code good mac
+525,"Unable to capture records name , price and rating and image in Requests Python
+https://stackoverflow.com/q/66365160/8643009?sem=2",,unable capture name price rating image python
+526,"program text often blurry at 360P, have watched hundred of videos at 360P with clearer text. should not have to increase resolution and suck more bandwidth for this channel",,program text often blurry watch hundred clear text increase resolution suck channel
+527,"while True:
+    print('Fantastic!!')",,true
+528,your website is down for the code snippets.,,code
+529,I like this guy.,,like guy
+530,"Hey guys, anyone figure out how to filter out the results for multiple unfamiliar skills? I got a mental block and unable to figure it out.. calling out for clues!! ref: 57:23",,hey anyone figure filter multiple unfamiliar get mental block unable figure call ref
+531,I am getting NoneType error...,,get error
+532,,,nan
+533,"I cant acces the Web Page timesjobs.com , 403 Error , any Tips?",,cant web page error
+535,he looks like bruno fernandes haha. But ngl this is and amazing course!!!!,,like amazing course
+536,Nice,,nice
+537,My program is not working! Please tell me why?,,program work please tell
+538,Web scraping with API,,web scrap
+539,please upload video on Alexarankchecker,,please video
+540,Hello I'm going to create a search engine can you help me bro,,hello go create search engine help
+541,I dont understand y u wouldnt just .strip () insted of replace,,dont understand u wouldnt strip replace
+542,I was fortunate to do 1000th like on this video,,fortunate like video
+543,please upload video relate to adidas it denied the requests please help me?,,please video relate please help
+544,i m getting response 404 error ...how to resolve it?,,get response error resolve
+545,Horse racing is what I want to crawl,,horse race want crawl
+547,"thanks,dude,here we go again",,go
+548,hey make a video how we will scrape timejobs website multiple page at onece plz plz plz,,hey make video scrape multiple page
+549,Please i would like to know if Web Scraping is legal ?,,please would like know web scraping legal
+552,Is there anyone who added more than one unfamiliar skills?,,anyone add one unfamiliar
+553,I am confused what I learn in python,,confuse learn python
+554,"""lxml doesn't parse broken html well""... proceeds to use it with his own html sigma male 101, king
+37:13 why no .strip() here? :D",,doesnt parse break well proceeds use sigma male king strip
+555,10.27 it's not opening what to do,,opening
+556,My teacher told me to do after this video as a homework and im lost..,,teacher tell video homework lose
+557,Free  code camp on time,,free code camp time
+558,I'm so stupid I would use C++ to parse an HTML file when I could just as easily use python,,stupid would use c parse file could easily use python
+559,thanks,,thanks
+560,thanks,,thanks
+561,"i can't get it to work it always returns ""none"" or ""[]""",,cant get work always none
+562,"When I run the program it shows this:
+
+None
+None
+None
+None
+None
+None
+
+Process finished with exit code 0",,run program none none none none none none process finish exit code
+563,"omg, i love your accent haha
+where are you from?",,love accent
+564,Freecodecamp please make video on playwright,,please make video playwright
+565,Hi sir business website PTC ads and create now,,hi sir business create
+566,the code source is not working,,code source work
+567,what if the list has no class?,,list class
+568,Good,,good
+569,Can Anyone Suggest best laptop for coding?,,anyone suggest best
+570,unfamiliar skill condition isn't working,,unfamiliar skill condition work
+571,At first I thought the accent would be annoying but now I need more of you just talking lol,,first think accent would annoy need talk
+572,When has a car crash ever taken 1 hour 8 minutes.. this is a course not a crash course,,car crash ever take hour course crash course
+573,"When i run the code i get an empty list ,if printed, [] <--- this",,run code get empty list print
+574,"regelRDW=rdwBestand.readline()
+while regelRDW != """":
+    lijstRDW.append(regelRDW.split(','))
+    regelRDW=rdwBestand.readline()
+ 
+21 regelScan=scanBestand.readline()
+while regelScan != """":
+    lijstScan.append(regelScan.split(','))
+    regelScan=scanBestand.readline()
+ 
+22  for scan in lijstScan:
+    kentekenScan = scan[0].strip()
+    gevonden=False
+ 
+23   for rdw in lijstRDW:
+        kentekenRDW = rdw[0].strip()
+ 
+24/26    if kentekenScan == kentekenRDW:
+            gevonden=True
+            print(f""OK: kenteken {kentekenScan} is in orde."")
+            kleurRDW = rdw[4].strip()
+ 
+            kleurNaam = """"
+            for list in kleuren:
+                if list[0] == kleurRDW:
+                    kleurNaam = list[1]
+        
+27/29     if kleurNaam != """":
+                if kleurNaam ==  scan[3].strip():
+                    print(f""OK: Kleur voor {kentekenScan} komt overeen."")
+                else:
+                    print(f""FOUT: Kleur voor {kentekenScan} komt niet overeen."")
+            else:
+                print(f""FOUT: Er kon geen kleur worden gevonden voor {kleurRDW}"")
+            break
+ 
+    if not gevonden:
+        print(""FOUT: Kenteken kon niet worden gevonden in de database van RDW, is dit een Nederlandse auto?"")",,scan list else else er kon break kon de van dit auto
+575,"great tutorial, the only complaint is the accent, i mean seriously he pronounces python pytchon",,great tutorial complaint accent mean seriously python
+576,37:14 that didn't solve the issue,,didnt solve issue
+578,27:27 yes two years,,yes two
+581,How much news you scrap in this video,,much news scrap video
+582,bruh jobstimes is forbidden in germany xd why coudlnt u just take a normall webside :D,,forbidden u take
+586,"when every 5 seconds he says „going to“, it becomes hard to focus. ",,every become hard focus
+587,sadly the site i was trying to use this on has some kind of robot capcha so im fucked,,sadly site try use kind robot
+588,the most usfuel video I had watched,,video watch
+590,Please how can I post as a guest here,,please post guest
+591,└ good s,,good
+592,Am I the only one getting a FileNotFoundError??,,one get
+593,the borat voice makes this easier to digest,,voice easy digest
+594,too much commercials,,much
+595,His look is a lot like Ryan's from The Office,,look lot like office
+596,you sound like you have a Russian accent,,sound like accent
+598,His accent getting worse as he is getting more tired :DDD,,accent get bad get tire
+599,you look like Bruno Fernandes,,look like
+600,"Python is cute, and its so fuckin neat that it doesnt have the fuckin semicolons...hated them!",,python cute neat doesnt
+601,hey are you turkish?,,hey
+602,Oh! my! god! scrapy does it better,,oh god scrapy well
+603,the accent is heavvvy,,accent
+604,So far the HTML explanation is not that good,,far explanation good
+605,"hahaha accent lolololol
+",,accent
+606,Your accent sounds middle east,,accent middle east
+607,hi,,hi
+608,"The greedy moat bareilly mate because quilt morphometrically work since a free george. low, strong person",,greedy moat mate quilt work since free low strong person
+609,"awful accent, barely saw the video because of that",,awful accent barely saw video
+610,Borat teaches Python!,,python
+611,L,,l
+612,Literally a waste of my time,,literally waste time
+613,I stopped watching because of the accent,,stop watch accent
+614,Please learn to pronounce 'THE' !  Gave up watching 'THE' video at min. 10:00.,,please learn pronounce give watch video min
