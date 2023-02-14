@@ -1,0 +1,24 @@
+,comments,sentiments,clean_comments
+0,"Hey, nice to meet you! I just found your channel and subscribed, love what you're doing! I like how clear and detailed your explanations are as well as the depth of knowledge you have surrounding the topic! Since I run a tech education channel as well, I love to see fellow Content Creators sharing, educating, and inspiring a large global audience. I wish you the best of luck on your YouTube Journey, can't wait to see you succeed! Your content really stands out and you've put so much thought into your videos!   Cheers, happy holidays, and keep up the great work!",1,hey nice meet find channel love like clear detail well depth knowledge surround topic since run tech education channel well love see fellow content inspire large global audience wish best luck journey cant wait see succeed content really youve put much think happy keep great work
+1,"this is extremely helpful mate! 
+keep making such informative video!",1,extremely helpful mate keep make informative video
+2,Thanks a lot for the tutorial! It helps a lot! Definitely way more efficient than using the Youtube official API. I would like to ask a question: What will be the approach for crawling video with like a million comment. I guess that scrolling and time.sleep will take too much time.,1,thanks lot tutorial lot definitely way efficient official would like ask question approach crawl video like million comment guess take much time
+3,"Love you, my respected brother, although the method is deprecated, I got a lot of concepts from your video, 
+Keep it up and share your knowledge...",1,love brother although method get lot video keep share knowledge
+4,i am so  happy after watching this video. Thankyou so much for this content..,1,happy watch video much content
+5,"Hey sir, how do you take 200 comments first?",0,hey sir take first
+6,it works Thanks but it is very slow. Can you do this via youtube APIs,1,work thanks slow via
+7,Thank you brother for video,1,thank brother video
+8,"Hi, is it legal to scrap youtube comments ? Thanks",1,hi legal scrap thanks
+9,can't we just use pytube to print the title?,0,cant use print title
+10,Is the code of this Video available? thanks,1,code video available thanks
+11,Can we scrape emails from these comments,0,scrape
+12,Where you run this code,1,run code
+13,"It is sayinf that >= does not work with int and non type
+Can you help me?",0,work non type help
+14,I DO NOT UNDERSTAND,1,understand
+15,"Bruh, can you learn english before doing videos in that language? ",0,learn language
+16,"I am getting this key error: 
+KeyError: <_SSLMethod.PROTOCOL_TLS_CLIENT: 16>
+
+Please help.",0,get key error please help
