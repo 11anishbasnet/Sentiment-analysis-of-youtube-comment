@@ -31,6 +31,7 @@
             border-radius: 15px;
             background-color : pink;
             margin-bottom : 15px;
+            overflow : hidden;
         }
 
         #right{
@@ -62,7 +63,6 @@
         }
         #youtube_url{
             text-align: center;
-            margin-top: 5%;
         }
 
         #button{
@@ -94,6 +94,10 @@
                 <label for="youtube_url" id="youtube_text">Enter a YouTube URL:</label>
                 <input type="text" name="youtube_url" id="youtube_url" required>
                 <button type="submit" id = "button">Sentiment</button>
+                <br>
+                {% if url %}
+                <p> URL = {{url}}</p>
+                {% endif %}
             </form>
         </div>
 

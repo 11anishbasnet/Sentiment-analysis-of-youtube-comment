@@ -190,21 +190,11 @@ def home():
         Z = df['clean_comments']
         Z = Z.reset_index(drop=True)
 
-        #opening bag of words we have created and finding P(c) as prior_pos and P(n) as prior_neg
-        bag = pd.read_csv("bag.csv", index_col=[0])
-        prior = pd.read_csv("prior.csv", index_col=[0])
-
-        prior_pos = prior.iloc[0]['prior']  # prior probability for  class
-        prior_neg = prior.iloc[1]['prior']  #prior probability for class 
-
-        #print(prior_pos,prior_neg)
-
         result = naive_bayes_predict(Z, bag, prior_pos, prior_neg)
-        #z_predicted
 
         #saving predicted sentiments into dataframe and to csv
         df['sentiments'] = result
-        df.to_csv("C:\\Users\\11ani\\OneDrive\Desktop\\project 7th sem code\\templates\\result\\"+"temp.csv")
+        df.to_csv("C:\\Users\\11ani\\OneDrive\Desktop\\project 7th sem code\\predected_comments\\"+"temp.csv")
 
         #analysis of comments
         length = len(df)  # finding out length of the datframe
@@ -220,7 +210,7 @@ def home():
                 i[j] = "negative"
             j = j+1
 
-        return render_template('home.html',length = length,pos_count =pos_count,neg_count =neg_count,Sentiments = i,Comments = df['comments'])
+        return render_template('home.html',length = length,pos_count =pos_count,neg_count =neg_count,Sentiments = i,Comments = df['comments'],url = url)
     return render_template('home.html')
 
 @app.route("/sentiment",methods=("GET","POST"))
